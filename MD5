@@ -1,12 +1,12 @@
-7bea6842bc7307860747f03121e01cac *DESCRIPTION
+1165f26633c3dbbae8a053e77cade6cf *DESCRIPTION
 15ae49177bef8caae852efb3cacc2687 *NAMESPACE
-e5fe5f93a2138b94ce5fb68d084f9ade *NEWS.md
+ecd691f88cf1dc702b6dfcc5e61891e0 *NEWS.md
 be94a383285ccfa41fb39421d98bdcb2 *R/RcppExports.R
-0efc318763f059a0b1fcdf12fd7358bd *R/libstable4u-pkg.r
+c4c4b165e22e43ecd301a79382266fdd *R/libstable4u-pkg.r
 027e8f59840a17710f16fb178a4b4430 *demo/00Index
 9c9c187b3fc20b9825b33dccf65d8a83 *demo/libstable4u_demo.R
-2dea68e1b3905bfbe92842394f79f9a0 *inst/CITATION
-827f92e82d61c6785ec3004f7bc73981 *man/libstable4u-package.Rd
+83176dd03985c27714ca45a7f849858f *inst/CITATION
+c613784cc76f25a79c7110a744986a06 *man/libstable4u-package.Rd
 59ebda57644630ef107df8d5f9866059 *man/stable_fit.Rd
 c20aead0e493daa2191ce340fb884f8a *man/stable_pdf_and_cdf.Rd
 e9750952f96753e0802abe5c447d4187 *man/stable_q.Rd

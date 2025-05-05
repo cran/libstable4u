@@ -1,5 +1,5 @@
 Package: libstable4u
-Version: 1.0.4
+Version: 1.0.5
 Title: Stable Distribution Functions...For You
 Authors@R: c(
   person("Javier", "Royuela del Val", role = c("aut")),
@@ -27,5 +27,5 @@ Maintainer: Bruce Swihart <bruce.swihart@gmail.com>
 Repository: CRAN
 RoxygenNote: 7.2.1
 Suggests: testthat
-Packaged: 2024-06-14 15:02:02 UTC; bruce
-Date/Publication: 2024-06-14 15:20:02 UTC
+Packaged: 2025-05-05 20:19:36 UTC; bruce
+Date/Publication: 2025-05-05 20:40:02 UTC

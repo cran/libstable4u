@@ -1,6 +1,6 @@
-1165f26633c3dbbae8a053e77cade6cf *DESCRIPTION
+b7b8261008f926237a53a39775a2fcc4 *DESCRIPTION
 15ae49177bef8caae852efb3cacc2687 *NAMESPACE
-ecd691f88cf1dc702b6dfcc5e61891e0 *NEWS.md
+3300b0103ee593fac7f3aefefb479f13 *NEWS.md
 be94a383285ccfa41fb39421d98bdcb2 *R/RcppExports.R
 c4c4b165e22e43ecd301a79382266fdd *R/libstable4u-pkg.r
 027e8f59840a17710f16fb178a4b4430 *demo/00Index
@@ -29,6 +29,6 @@ f60ae7b92d5965fb417ec9168177b6a4 *src/stable_integration.h
 602c7881db70969222a2dced8c2ae39b *src/stable_koutrouvelis.c
 1aeee1acd665933ad8623fa8c0707858 *src/stable_pdf.c
 316f8181470ce89d304a2103cfa7fdab *src/stable_q.c
-0b0a55f0408b7ff5cd94755cf5c8a844 *src/stable_rnd.c
+f277d4fd4577f2cc73338dd2d19d8e50 *src/stable_rnd.c
 0e8f7d1a818cd996497e07ff938b27ea *tests/testthat.R
 591b8c85fbaa87a2f9760ae14f0e559f *tests/testthat/test-stable-df.R
